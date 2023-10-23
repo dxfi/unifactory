@@ -88,9 +88,7 @@ export default function Footer() {
   const copyright = `© ${projectName} ${year}`
   const SourceCopyright = (
     <>
-      Powered by{' '}
-      <a href="https://onout.org/dex" target="_blank" rel="noopener noreferrer">
-        OnOut - no-code tool for creating DEX
+     
       </a>
     </>
   )
